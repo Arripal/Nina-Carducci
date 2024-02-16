@@ -123,8 +123,8 @@ body {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-	color: #d0cccc;
-	background-color: #beb45a;
+	color: #fff;
+	background-color: #d5c95c;
 	border-radius: 0;
 }
 .item-column {
